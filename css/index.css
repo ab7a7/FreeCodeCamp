@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    text-align: center;
+}
+
+main {
+    display: grid;
+    grid-template: 1fr 4fr 4fr 1fr / 1fr;
+}
+
+.column-two {
+    grid-column: 2;
+}
+
+.column-two {
+    grid-column: 2;
+}
